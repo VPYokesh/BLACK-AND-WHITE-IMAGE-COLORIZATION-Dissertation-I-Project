@@ -7,8 +7,6 @@ This project presents a **GAN-based automatic image colorization system** that c
 
 ## 👨‍💻 Author
 **Yokesh VP**  
-Register No: 24MDT0005  
-School of Advanced Sciences  
 VIT Vellore  
 
 ---
